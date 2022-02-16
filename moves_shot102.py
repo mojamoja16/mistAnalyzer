@@ -8,7 +8,7 @@ class shot102():
     def __init__(self):
         #threading.Thread.__init__(self)
         self._pulse_per_unit =(1000,1000)
-        self._ser = serial.Serial('COM18')
+        self._ser = serial.Serial('COM12')
         self._ser.baudrate = 38400
         self._write_waittime = 0.05
         #self._ser.write(b"!:\r\n")
