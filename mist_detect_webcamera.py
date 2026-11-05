@@ -1,5 +1,6 @@
 """
 Created on Fri Dec  4 16:32:40 2020
+2026/11/05 hideokikan
 
 @author: IMANAKA_HIDEO
 """
